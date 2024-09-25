@@ -73,4 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ##project url
-https://github.com/perfectsanjay/Testimonial-Cards
+https://roadmap.sh/projects/testimonial-cards
