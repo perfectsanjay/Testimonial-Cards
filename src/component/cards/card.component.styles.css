@@ -1,0 +1,141 @@
+*,
+html,
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: black;
+  height: 100vh;
+}
+.card1 {
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  padding: 20px;
+  line-height: 20px;
+}
+.word {
+  margin-top: 10px;
+}
+
+.image-detail {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  font-size: 10px;
+}
+.image-detail-card3 {
+  font-size: 10px;
+  padding: 10px;
+}
+
+.card2 {
+  display: flex;
+  gap: 15px;
+  width: 50%;
+}
+.card3 {
+  width: 50%;
+  margin: 3px;
+  padding: 10px;
+  border: solid black;
+  border-radius: 10px;
+}
+.card4 {
+  margin: 2px;
+  margin-top: 15px;
+}
+.card5 {
+  margin: 10px;
+  background-color: black;
+  border-radius: 10px;
+  color: white;
+  padding: 10px;
+}
+.card6 {
+  margin: 20px;
+  border: solid black;
+  border-radius: 20px;
+  padding: 10px;
+}
+.last-items {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+.imageblur {
+  opacity: 0.5;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.last-name {
+  display: flex;
+  justify-content: center;
+  font-size: 20px;
+}
+.opening-bracket {
+  font-size: 30px;
+  margin-right: 20px;
+}
+.closing-bracket {
+  font-size: 30px;
+  margin-left: 30px;
+}
+
+.manager {
+  margin-top: 10px;
+}
+
+.card1card2Container {
+  display: flex;
+  gap: 40px;
+  flex-direction: column;
+  width: 50%;
+}
+
+.card1card2card3Container {
+  display: flex;
+}
+.card4card5Container {
+  display: flex;
+}
+
+.container {
+  background-color: white;
+  max-width: 1000px;
+  padding: 20px;
+  margin: 0px auto;
+  width: 40%;
+  height: 100vh;
+}
+
+.image1,
+.image2 {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.image3 {
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+}
+.image4 {
+  width: 200px;
+  height: 200px;
+}
+.image {
+  display: flex;
+  justify-content: left;
+  padding: 30px;
+}
+
+
